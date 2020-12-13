@@ -16,10 +16,6 @@ body {
     text-align: justify;
   }
 
- #iframe {
-    display: flex;
-  }
-
   .container {
     position: relative;
     width: 100%;
