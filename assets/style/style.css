@@ -46,6 +46,35 @@ body {
     color: #000000;
   }
 
+  #btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: rgba(0,0,0,0.2);
+}
+
+#btn-github {
+    color: #fff;
+    background-color: #444;
+    border-color: rgba(0,0,0,0.2);
+}
+
+#btn-linkedin {
+    color: #fff;
+    background-color: #007bb6;
+    border-color: rgba(0,0,0,0.2);
+}
+
+input[type=submit] {
+    background-color: #2d3436;
+    color: white;
+    padding: 10px 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    margin-top: 15px; 
+    resize: vertical;
+  }
+
   img:hover {
     opacity: 1.0;
   }
