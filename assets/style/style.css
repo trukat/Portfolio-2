@@ -22,9 +22,9 @@ body {
     padding-top: 66.66%; /* 3:2 Aspect Ratio */
   }
 
-  .btn {
+  .btn-primary {
     background-color: #22a6b3;
-    border: none
+    border: none;
   }
 
   .responsive-iframe {
