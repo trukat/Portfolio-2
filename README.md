@@ -4,7 +4,7 @@
 
 My updated portfolio:
 
-1. Display my full name, email link, and phone number (within resume)
+1. Displays my full name, email link, and phone number (within resume)
 
 2. Has links to my GitHub profile and LinkedIn profile
 
